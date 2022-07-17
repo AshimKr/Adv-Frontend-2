@@ -1,0 +1,19 @@
+
+   .grid-container {
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+    background-color: gray;
+    padding: 5px;
+}
+  
+.grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid black;
+    padding: 20px;
+    font-size: 30px;
+}
+  
+h1 {
+    color: green;
+    text-align: center;
+}
